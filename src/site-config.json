@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Emerson Enterprise",
+    "phone": "+14083574499",
+    "category": "demolition contractor",
+    "city": "San Jose",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Jose Demolition Experts",
+      "heroSubline": "Safe, efficient, and reliable demolition services across the Bay Area. Emerson Enterprise handles any size project with precision.",
+      "aboutTitle": "Demolition Done Right in San Jose",
+      "aboutText": [
+        "Emerson Enterprise started with a simple mission: to provide top-quality demolition services with integrity and a commitment to safety. Founded by a San Jose native, we understand the unique challenges of demolition in this area, from navigating the tight spaces of Willow Glen to addressing the specific needs of older homes in the Rose Garden neighborhood.",
+        "Our approach is straightforward. We assess each project meticulously, develop a clear plan, and execute it with skill and precision. We value clear communication, respect for your property, and a dedication to leaving the site clean and ready for the next phase. We're not just tearing down structures; we're building trust with every job.",
+        "As a local business, we're invested in the San Jose community. We prioritize responsible disposal and recycling practices, minimizing our environmental impact. We also actively support local initiatives, believing in giving back to the neighborhoods we serve."
+      ],
+      "valueProps": [
+        {
+          "title": "Safety First",
+          "description": "Unwavering commitment to safety protocols, protecting our team and your property."
+        },
+        {
+          "title": "Experienced Professionals",
+          "description": "Decades of combined experience in all types of demolition projects."
+        },
+        {
+          "title": "Efficient Execution",
+          "description": "We complete projects on time and within budget, minimizing disruption."
+        },
+        {
+          "title": "Environmental Responsibility",
+          "description": "Prioritizing recycling and responsible disposal to minimize our impact."
+        }
+      ],
+      "ctaHeadline": "Ready to Demolish Your Project?",
+      "ctaSubline": "Contact Emerson Enterprise today for a free consultation and estimate. Let's get started!"
+    },
+    "services": [
+      {
+        "slug": "residential-demolition",
+        "name": "Residential Demolition",
+        "shortDescription": "Safe and efficient demolition services for homes and residential properties.",
+        "description": "Emerson Enterprise provides comprehensive residential demolition services throughout San Jose and the surrounding areas. We understand the unique challenges of demolishing homes in established neighborhoods, where space is often limited and careful planning is essential. Our team is skilled in handling all types of residential demolition, from complete house tear-downs to selective demolition of kitchens, bathrooms, and other interior spaces.\n\nWe prioritize safety and environmental responsibility in every project. Our experienced team carefully assesses the site, identifies potential hazards, and develops a detailed demolition plan. We use specialized equipment and techniques to minimize dust, noise, and disruption to your neighbors. We also ensure that all debris is properly disposed of and recycled whenever possible.\n\nWhether you're planning a new construction project, renovating an existing home, or simply need to remove an unwanted structure, Emerson Enterprise can provide the reliable and professional demolition services you need. We handle all necessary permits and ensure that the demolition is completed in compliance with local regulations. Our goal is to make the process as smooth and stress-free as possible for our clients.",
+        "process": [
+          "Step 1: Site assessment and hazard identification.",
+          "Step 2: Development of a detailed demolition plan.",
+          "Step 3: Secure necessary permits and notifications.",
+          "Step 4: Safe and efficient demolition execution."
+        ],
+        "benefits": [
+          "Safe and compliant demolition practices.",
+          "Minimizes disruption to surrounding properties.",
+          "Responsible debris removal and recycling.",
+          "Prepares site for new construction or renovation."
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for residential demolition?",
+            "answer": "Yes, in most cases, a permit is required for residential demolition in San Jose. We handle the permit application process for you, ensuring compliance with all local regulations."
+          },
+          {
+            "question": "How long does residential demolition take?",
+            "answer": "The duration of a residential demolition project depends on the size and complexity of the structure. We provide a realistic timeline during the initial consultation."
+          },
+          {
+            "question": "What happens to the debris after demolition?",
+            "answer": "We prioritize responsible disposal and recycling. We sort the debris and transport it to licensed recycling facilities whenever possible."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-demolition",
+        "name": "Commercial Demolition",
+        "shortDescription": "Expert demolition services for commercial buildings and industrial facilities.",
+        "description": "Emerson Enterprise offers comprehensive commercial demolition services for businesses and industrial facilities in San Jose and the surrounding areas. We understand the unique challenges of commercial demolition, including working in densely populated areas, managing large-scale projects, and adhering to strict safety regulations.\n\nOur team has extensive experience demolishing a wide range of commercial structures, from office buildings and retail spaces to warehouses and industrial plants. We use advanced equipment and techniques to ensure that the demolition is completed safely, efficiently, and with minimal disruption to surrounding businesses and residents. We also prioritize environmental responsibility, recycling as much material as possible and properly disposing of hazardous waste.\n\nWe work closely with our clients to develop a customized demolition plan that meets their specific needs and budget. We handle all necessary permits and notifications, and we coordinate with other contractors to ensure a smooth and seamless project. Whether you're renovating an existing property, preparing for new construction, or simply need to remove an unwanted structure, Emerson Enterprise can provide the reliable and professional demolition services you need.",
+        "process": [
+          "Step 1: Detailed site assessment and risk analysis.",
+          "Step 2: Development of a comprehensive demolition plan.",
+          "Step 3: Secure all necessary permits and approvals.",
+          "Step 4: Safe and efficient demolition execution with minimal disruption."
+        ],
+        "benefits": [
+          "Safe and compliant commercial demolition.",
+          "Minimizes disruption to business operations.",
+          "Experienced in large-scale projects.",
+          "Responsible waste management and recycling."
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial buildings can you demolish?",
+            "answer": "We can demolish a wide range of commercial structures, including office buildings, retail spaces, warehouses, industrial plants, and more. Contact us to discuss your specific needs."
+          },
+          {
+            "question": "How do you handle hazardous materials?",
+            "answer": "We are fully trained and equipped to handle hazardous materials such as asbestos and lead paint. We follow all applicable regulations to ensure the safe removal and disposal of these materials."
+          },
+          {
+            "question": "Do you provide site clearing services?",
+            "answer": "Yes, we offer comprehensive site clearing services to prepare the site for new construction or other uses."
+          }
+        ]
+      },
+      {
+        "slug": "selective-demolition",
+        "name": "Selective Demolition",
+        "shortDescription": "Precise and targeted demolition for renovations and remodeling projects.",
+        "description": "Emerson Enterprise specializes in selective demolition, providing precise and targeted demolition services for renovations, remodeling projects, and interior alterations in San Jose. Unlike complete demolition, selective demolition involves carefully removing specific portions of a structure while leaving the rest intact.\n\nWe understand the importance of precision and accuracy in selective demolition. Our team uses specialized tools and techniques to minimize damage to surrounding areas and ensure that the project is completed to your exact specifications. We work closely with contractors and homeowners to develop a detailed demolition plan that meets their specific needs and budget.\n\nWhether you're renovating a kitchen, bathroom, or entire office space, Emerson Enterprise can provide the reliable and professional selective demolition services you need. We handle all necessary permits and notifications, and we coordinate with other contractors to ensure a smooth and seamless project. Our goal is to make the process as stress-free as possible for our clients.",
+        "process": [
+          "Step 1: Detailed assessment of the area to be demolished.",
+          "Step 2: Careful planning to minimize damage to surrounding areas.",
+          "Step 3: Precise and targeted demolition execution.",
+          "Step 4: Debris removal and site cleanup."
+        ],
+        "benefits": [
+          "Precise and targeted demolition.",
+          "Minimizes damage to surrounding areas.",
+          "Ideal for renovations and remodeling projects.",
+          "Experienced in working with contractors and homeowners."
+        ],
+        "faq": [
+          {
+            "question": "What types of selective demolition do you offer?",
+            "answer": "We offer a wide range of selective demolition services, including kitchen and bathroom demolition, wall removal, floor demolition, and more. Contact us to discuss your specific needs."
+          },
+          {
+            "question": "How do you protect the surrounding areas during selective demolition?",
+            "answer": "We use a variety of techniques to protect the surrounding areas, including dust barriers, plastic sheeting, and careful demolition techniques."
+          },
+          {
+            "question": "Do you offer debris removal services?",
+            "answer": "Yes, we offer comprehensive debris removal services to ensure that the site is clean and ready for the next phase of your project."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-removal",
+        "name": "Concrete Removal",
+        "shortDescription": "Efficient and reliable concrete removal services for residential and commercial properties.",
+        "description": "Emerson Enterprise provides expert concrete removal services for residential and commercial properties throughout San Jose and the surrounding areas. Whether you need to remove a cracked driveway, an old patio, or a concrete foundation, our team has the experience and equipment to get the job done safely and efficiently.\n\nWe understand the challenges of concrete removal, including the weight and density of the material, the potential for dust and noise, and the need for specialized equipment. Our team uses advanced techniques and equipment to minimize disruption and ensure that the project is completed to your satisfaction. We also prioritize environmental responsibility, recycling as much concrete as possible and properly disposing of any remaining debris.\n\nWe work closely with our clients to develop a customized concrete removal plan that meets their specific needs and budget. We handle all necessary permits and notifications, and we coordinate with other contractors to ensure a smooth and seamless project. Our goal is to make the process as stress-free as possible for our clients.",
+        "process": [
+          "Step 1: Site assessment and planning.",
+          "Step 2: Concrete cutting and breaking.",
+          "Step 3: Concrete removal and loading.",
+          "Step 4: Debris removal and site cleanup."
+        ],
+        "benefits": [
+          "Efficient and reliable concrete removal.",
+          "Minimizes disruption to surrounding areas.",
+          "Experienced in removing all types of concrete structures.",
+          "Responsible waste management and recycling."
+        ],
+        "faq": [
+          {
+            "question": "What types of concrete structures can you remove?",
+            "answer": "We can remove a wide range of concrete structures, including driveways, patios, sidewalks, foundations, and more. Contact us to discuss your specific needs."
+          },
+          {
+            "question": "How do you minimize dust during concrete removal?",
+            "answer": "We use a variety of techniques to minimize dust, including water spraying and dust barriers."
+          },
+          {
+            "question": "Do you offer concrete recycling services?",
+            "answer": "Yes, we prioritize concrete recycling whenever possible to minimize our environmental impact."
+          }
+        ]
+      },
+      {
+        "slug": "asbestos-abatement",
+        "name": "Asbestos Abatement",
+        "shortDescription": "Safe and certified asbestos removal services for homes and businesses.",
+        "description": "Emerson Enterprise provides safe and certified asbestos abatement services for homes and businesses in San Jose and the surrounding areas. Asbestos is a hazardous material that can pose serious health risks if not handled properly. Our team is fully trained and certified to safely remove asbestos-containing materials from your property.\n\nWe follow strict protocols and regulations to ensure that the asbestos is removed safely and effectively. We use specialized equipment and techniques to minimize the release of asbestos fibers into the air. We also properly dispose of the asbestos waste at licensed disposal facilities.\n\nIf you suspect that your home or business contains asbestos, contact Emerson Enterprise for a professional inspection and asbestos abatement services. We will assess the situation, develop a detailed abatement plan, and execute it with the utmost care and safety. Our goal is to protect your health and the environment.",
+        "process": [
+          "Step 1: Asbestos testing and inspection.",
+          "Step 2: Development of an asbestos abatement plan.",
+          "Step 3: Secure necessary permits and notifications.",
+          "Step 4: Safe and certified asbestos removal."
+        ],
+        "benefits": [
+          "Safe and certified asbestos removal.",
+          "Protects your health and the environment.",
+          "Compliant with all applicable regulations.",
+          "Experienced in removing asbestos from homes and businesses."
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my home contains asbestos?",
+            "answer": "The only way to know for sure if your home contains asbestos is to have it tested by a certified professional. We offer asbestos testing services to determine if asbestos is present in your home."
+          },
+          {
+            "question": "What are the health risks of asbestos exposure?",
+            "answer": "Asbestos exposure can cause serious health problems, including lung cancer, mesothelioma, and asbestosis."
+          },
+          {
+            "question": "How long does asbestos abatement take?",
+            "answer": "The duration of asbestos abatement depends on the size and complexity of the project. We provide a realistic timeline during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "site-clearing",
+        "name": "Site Clearing",
+        "shortDescription": "Comprehensive land and site clearing services for construction and development projects.",
+        "description": "Emerson Enterprise offers comprehensive site clearing services for construction and development projects in San Jose and the surrounding areas. We prepare land for new construction, landscaping, and other development projects by removing trees, brush, debris, and other obstacles.\n\nOur team has the experience and equipment to handle site clearing projects of all sizes. We use heavy machinery to remove trees and brush, and we carefully dispose of all debris in an environmentally responsible manner. We also offer grading and excavation services to prepare the site for construction.\n\nWe work closely with our clients to develop a customized site clearing plan that meets their specific needs and budget. We handle all necessary permits and notifications, and we coordinate with other contractors to ensure a smooth and seamless project. Our goal is to provide a clean and level site that is ready for development.",
+        "process": [
+          "Step 1: Site assessment and planning.",
+          "Step 2: Tree and brush removal.",
+          "Step 3: Debris removal and disposal.",
+          "Step 4: Grading and excavation (if needed)."
+        ],
+        "benefits": [
+          "Prepares land for new construction.",
+          "Removes trees, brush, and debris.",
+          "Provides a clean and level site.",
+          "Environmentally responsible disposal."
+        ],
+        "faq": [
+          {
+            "question": "What types of sites can you clear?",
+            "answer": "We can clear a wide range of sites, including residential lots, commercial properties, and industrial sites. Contact us to discuss your specific needs."
+          },
+          {
+            "question": "How do you handle tree removal?",
+            "answer": "We use specialized equipment to safely and efficiently remove trees. We also ensure that all tree removal is done in compliance with local regulations."
+          },
+          {
+            "question": "Do you offer grading and excavation services?",
+            "answer": "Yes, we offer grading and excavation services to prepare the site for construction."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Jose",
+        "slug": "san-jose-ca",
+        "state": "CA",
+        "content": "Emerson Enterprise provides comprehensive demolition services throughout San Jose, California. From residential teardowns to commercial site clearing, we handle projects of all sizes with safety and efficiency as our top priorities. Our team understands the unique needs of San Jose residents and businesses, ensuring minimal disruption and adherence to all local regulations.\n\nWe're committed to responsible demolition practices, including recycling and proper disposal of debris. Whether you're preparing for new construction or simply need to remove an unwanted structure, Emerson Enterprise offers reliable and affordable demolition solutions in San Jose.",
+        "localContext": "San Jose, the heart of Silicon Valley, is a bustling city known for its innovation and diverse communities, presenting unique demolition challenges and opportunities.",
+        "nearbyAreas": [
+          "Santa Clara",
+          "Sunnyvale",
+          "Milpitas"
+        ]
+      },
+      {
+        "city": "Santa Clara",
+        "slug": "santa-clara-ca",
+        "state": "CA",
+        "content": "Emerson Enterprise extends its expert demolition services to Santa Clara, CA. We cater to both residential and commercial clients, offering services such as selective demolition, complete building removal, and site preparation. Our commitment to safety, environmental responsibility, and customer satisfaction sets us apart.\n\nWe navigate the specific requirements of Santa Clara's building codes and regulations, ensuring a smooth and compliant demolition process. Trust Emerson Enterprise to handle your demolition needs with professionalism and efficiency in Santa Clara.",
+        "localContext": "Santa Clara, home to Levi's Stadium and a thriving tech industry, demands efficient and responsible demolition services to support its continued growth.",
+        "nearbyAreas": [
+          "San Jose",
+          "Sunnyvale",
+          "Cupertino"
+        ]
+      },
+      {
+        "city": "Sunnyvale",
+        "slug": "sunnyvale-ca",
+        "state": "CA",
+        "content": "Emerson Enterprise is a trusted provider of demolition services in Sunnyvale, California. We offer a wide range of services, including residential demolition, commercial demolition, and concrete removal. Our experienced team is equipped to handle any project, big or small, with precision and care.\n\nWe understand the importance of minimizing disruption to the Sunnyvale community and prioritize safety and environmental responsibility in all our demolition projects. Emerson Enterprise is your reliable partner for demolition services in Sunnyvale.",
+        "localContext": "Sunnyvale, a key city in Silicon Valley, requires dependable demolition services for its residential and commercial development projects.",
+        "nearbyAreas": [
+          "Santa Clara",
+          "Mountain View",
+          "Cupertino"
+        ]
+      },
+      {
+        "city": "Mountain View",
+        "slug": "mountain-view-ca",
+        "state": "CA",
+        "content": "Emerson Enterprise proudly serves Mountain View, CA, providing top-notch demolition services to residential and commercial clients. We specialize in a variety of demolition services, including interior demolition, structural demolition, and site clearing. Our focus is always on safety, efficiency, and customer satisfaction.\n\nWe are familiar with Mountain View's specific regulations and environmental concerns, ensuring that all our demolition projects are carried out in a responsible and compliant manner. Choose Emerson Enterprise for your demolition needs in Mountain View.",
+        "localContext": "Mountain View, home to Google and a hub of technological innovation, benefits from Emerson Enterprise's careful and efficient demolition services.",
+        "nearbyAreas": [
+          "Sunnyvale",
+          "Palo Alto",
+          "Los Altos"
+        ]
+      },
+      {
+        "city": "Palo Alto",
+        "slug": "palo-alto-ca",
+        "state": "CA",
+        "content": "Emerson Enterprise offers expert demolition services to Palo Alto, California. We provide comprehensive solutions for residential and commercial properties, including selective demolition, complete site clearing, and debris removal. Our experienced team is dedicated to delivering exceptional results while adhering to the highest safety standards.\n\nWe understand the unique character of Palo Alto and strive to minimize disruption during our demolition projects. Our commitment to environmental responsibility and customer satisfaction makes Emerson Enterprise the ideal choice for your demolition needs in Palo Alto.",
+        "localContext": "Palo Alto, a city renowned for Stanford University and its affluent community, demands high-quality and environmentally conscious demolition services.",
+        "nearbyAreas": [
+          "Mountain View",
+          "Menlo Park",
+          "Los Altos Hills"
+        ]
+      },
+      {
+        "city": "Milpitas",
+        "slug": "milpitas-ca",
+        "state": "CA",
+        "content": "Emerson Enterprise provides reliable demolition services in Milpitas, CA. We offer a range of services, including residential and commercial demolition, concrete removal, and site preparation. Our team is committed to providing safe, efficient, and cost-effective solutions for all your demolition needs.\n\nWe are knowledgeable about Milpitas's local regulations and environmental concerns, ensuring that our projects are carried out in compliance with all applicable standards. Trust Emerson Enterprise to handle your demolition project with professionalism and expertise in Milpitas.",
+        "localContext": "Milpitas, a diverse and growing city in the South Bay, requires dependable demolition services to support its ongoing development.",
+        "nearbyAreas": [
+          "San Jose",
+          "Fremont",
+          "Santa Clara"
+        ]
+      },
+      {
+        "city": "Fremont",
+        "slug": "fremont-ca",
+        "state": "CA",
+        "content": "Emerson Enterprise extends its professional demolition services to Fremont, CA. We offer a full suite of demolition services for both residential and commercial clients. Our services include selective demolition, complete building removal, and site clearing. With a focus on safety and efficiency, we ensure minimal disruption to the community.\n\nWe understand the importance of adhering to Fremont's building codes and environmental regulations. Emerson Enterprise is committed to providing responsible and reliable demolition services throughout Fremont.",
+        "localContext": "Fremont, a large and diverse city in the East Bay, benefits from Emerson Enterprise's comprehensive and environmentally conscious demolition services.",
+        "nearbyAreas": [
+          "Milpitas",
+          "Union City",
+          "Newark"
+        ]
+      },
+      {
+        "city": "Cupertino",
+        "slug": "cupertino-ca",
+        "state": "CA",
+        "content": "Emerson Enterprise offers specialized demolition services to Cupertino, CA. We cater to both residential and commercial projects, providing solutions such as selective demolition, interior demolition, and complete building removal. Our team is dedicated to safety, efficiency, and responsible waste disposal.\n\nWe are familiar with Cupertino's specific requirements and environmental concerns. Emerson Enterprise ensures that every project is completed in compliance with local regulations. Trust us to handle your demolition needs with professionalism and care in Cupertino.",
+        "localContext": "Cupertino, home to Apple headquarters, benefits from the careful and precise demolition services offered by Emerson Enterprise.",
+        "nearbyAreas": [
+          "Sunnyvale",
+          "Santa Clara",
+          "Los Altos"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Residential Demolition",
+        "text": "Emerson Enterprise demolished an old shed in my backyard. They were incredibly efficient and professional. The team took great care to protect my existing landscaping and left the site spotless. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Concrete Removal",
+        "text": "Needed an old concrete patio removed. Emerson Enterprise gave me a fair quote and completed the job quickly. There was a minor issue with dust, but they addressed it immediately. Overall, very satisfied.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Linda J.",
+        "rating": 5,
+        "service": "Selective Demolition",
+        "text": "We hired Emerson Enterprise for selective demolition during our kitchen remodel. They carefully removed a load-bearing wall without any issues. The team was respectful of our home and cleaned up thoroughly afterward. We were impressed with their expertise.",
+        "date": "2024-10-20"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Commercial Demolition",
+        "text": "Emerson Enterprise handled the demolition of a small office building we purchased. They managed the project efficiently and safely, even with some unexpected challenges. Communication was excellent throughout the process.",
+        "date": "2024-08-10"
+      },
+      {
+        "name": "Susan L.",
+        "rating": 4,
+        "service": "Asbestos Abatement",
+        "text": "We had asbestos siding that needed removal prior to a remodel. Emerson Enterprise handled the job with professionalism and care. They explained the process clearly and followed all safety protocols. A bit pricey, but worth it for the peace of mind.",
+        "date": "2024-06-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Site Clearing",
+        "text": "Emerson Enterprise cleared a lot for me in preparation for building a new home. They removed trees, brush, and old structures quickly and efficiently. The site was left clean and ready for construction. Great job!",
+        "date": "2024-04-22"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "San Jose Demolition Contractor | Emerson Enterprise",
+        "description": "Reliable demolition services in San Jose, CA. Residential, commercial, asbestos removal. Free estimates. Call +14083574499"
+      },
+      "about": {
+        "title": "About Us | Emerson Enterprise Demolition",
+        "description": "Learn about Emerson Enterprise: San Jose's trusted demolition contractor. Safety, experience, and community focus."
+      },
+      "services": {
+        "title": "Demolition Services | San Jose, CA",
+        "description": "Comprehensive demolition services in San Jose. Residential, commercial, selective demolition, asbestos abatement. Emerson Enterprise."
+      },
+      "contact": {
+        "title": "Contact Us | Emerson Enterprise Demolition",
+        "description": "Contact Emerson Enterprise for demolition services in San Jose, CA. Get a free estimate today! +14083574499"
+      },
+      "reviews": {
+        "title": "Reviews | Emerson Enterprise Demolition",
+        "description": "Read reviews from satisfied Emerson Enterprise customers in San Jose. Reliable demolition contractor."
+      },
+      "service-areas": {
+        "title": "Service Areas | Emerson Enterprise Demolition",
+        "description": "Emerson Enterprise provides demolition services across San Jose and surrounding Bay Area cities. Check our service area."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-demolition": "/images/service-residential-demolition.webp",
+      "commercial-demolition": "/images/service-commercial-demolition.webp",
+      "selective-demolition": "/images/service-selective-demolition.webp",
+      "concrete-removal": "/images/service-concrete-removal.webp",
+      "asbestos-abatement": "/images/service-asbestos-abatement.webp",
+      "site-clearing": "/images/service-site-clearing.webp"
+    },
+    "servicesResponsive": {
+      "residential-demolition": {
+        "src": "/images/service-residential-demolition.webp",
+        "srcset": "/images/service-residential-demolition-400w.webp 400w, /images/service-residential-demolition-800w.webp 800w, /images/service-residential-demolition-1200w.webp 1200w, /images/service-residential-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-demolition": {
+        "src": "/images/service-commercial-demolition.webp",
+        "srcset": "/images/service-commercial-demolition-400w.webp 400w, /images/service-commercial-demolition-800w.webp 800w, /images/service-commercial-demolition-1200w.webp 1200w, /images/service-commercial-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "selective-demolition": {
+        "src": "/images/service-selective-demolition.webp",
+        "srcset": "/images/service-selective-demolition-400w.webp 400w, /images/service-selective-demolition-800w.webp 800w, /images/service-selective-demolition-1200w.webp 1200w, /images/service-selective-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-removal": {
+        "src": "/images/service-concrete-removal.webp",
+        "srcset": "/images/service-concrete-removal-400w.webp 400w, /images/service-concrete-removal-800w.webp 800w, /images/service-concrete-removal-1200w.webp 1200w, /images/service-concrete-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "asbestos-abatement": {
+        "src": "/images/service-asbestos-abatement.webp",
+        "srcset": "/images/service-asbestos-abatement-400w.webp 400w, /images/service-asbestos-abatement-800w.webp 800w, /images/service-asbestos-abatement-1200w.webp 1200w, /images/service-asbestos-abatement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "site-clearing": {
+        "src": "/images/service-site-clearing.webp",
+        "srcset": "/images/service-site-clearing-400w.webp 400w, /images/service-site-clearing-800w.webp 800w, /images/service-site-clearing-1200w.webp 1200w, /images/service-site-clearing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
